@@ -79,6 +79,7 @@ A collection of awesome things regarding the React ecosystem.
 - [headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, accessible UI components for React
 - [ruixen-ui](https://github.com/ruixenui/ruixen.com) - Modern, lightweight React component library with elegant design
 - [otfdashkit-ui](https://github.com/otf-kit/sdk) - Cross-platform component library — same API on React web (Radix + Tailwind) and React Native (Expo). MIT.
+- [otfdashkit-ui](https://github.com/otf-kit/sdk) - Cross-platform component library — same API on React web (Radix + Tailwind) and React Native (Expo). MIT.
 
 #### React State Management and Data Fetching
 
