@@ -78,7 +78,7 @@ A collection of awesome things regarding the React ecosystem.
 - [8bitcn-ui](https://github.com/TheOrcDev/8bitcn-ui) - A retro 8-bit themed React component library built on top of shadcn
 - [headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, accessible UI components for React
 - [ruixen-ui](https://github.com/ruixenui/ruixen.com) - Modern, lightweight React component library with elegant design
-- [otfdashkit-ui](https://github.com/otf-kit/sdk) - Cross-platform component library — same API on React web (Radix + Tailwind) and React Native (Expo). MIT.
+- [otfdashkit-ui](https://github.com/otf-kit/sdk) - Cross-platform component library â same API on React web (Radix + Tailwind) and React Native (Expo). MIT.
 
 #### React State Management and Data Fetching
 
@@ -246,6 +246,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
 
 #### React Native Awesome Components
+- [OTF UI SDK](https://github.com/otf-kit/sdk?utm_source=directory&utm_medium=referral&utm_campaign=first-sale-14d-20261016&utm_content=2026-10-21-awesome-react-sdk) - Free MIT-licensed UI components for React and React Native. [Component docs](https://otf-kit.dev/components?utm_source=directory&utm_medium=referral&utm_campaign=first-sale-14d-20261016&utm_content=2026-10-21-awesome-react-sdk).
 
 - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native
 - [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat) - The most complete chat UI for React Native
@@ -258,6 +259,6 @@ A collection of awesome things regarding the React ecosystem.
 
 ### Contribution
 
-This list began as a personal compilation of interesting things related to React. When it was initiated, React was still in beta, a special script was required to convert JSX to JS, and Flux (if you know what it was) had not yet been released. Today, React has become boring mainstream. Kindly refrain from using this list as an advertisement board or a space to promote your experiments. We focus on sharing entirely free resources here. Please feel free to propose updates for outdated projects and articles, as well as new contributions. I would prefer GitHub links, please. Your input and suggestions are wholeheartedly♡ appreciated. (✿◠‿◠)
+This list began as a personal compilation of interesting things related to React. When it was initiated, React was still in beta, a special script was required to convert JSX to JS, and Flux (if you know what it was) had not yet been released. Today, React has become boring mainstream. Kindly refrain from using this list as an advertisement board or a space to promote your experiments. We focus on sharing entirely free resources here. Please feel free to propose updates for outdated projects and articles, as well as new contributions. I would prefer GitHub links, please. Your input and suggestions are wholeheartedlyâ¡ appreciated. (â¿â â¿â )
 
 [![CC0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
